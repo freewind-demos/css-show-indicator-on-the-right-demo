@@ -1,8 +1,6 @@
-Css Hello World Demo
-====================
+Css Show Indicator On The Right Demo
+====================================
 
-Use css in html pages.
+`:after` and `position` is the key.
 
 Open `index.html` in your browser.
-
-![demo](./images/demo.jpg)
